@@ -13,8 +13,9 @@ TerminalAI is a simple chatbot that leverages OpenAI's GPT-3.5 model to interact
 
 ## Setup Instructions
 
-First, clone the repository to your local machine:
 ```sh
+### clone the repository to your local machine:
+
 git clone https://github.com/ShishirPathak/TerminalTalk.git
 cd TerminalAI
 
