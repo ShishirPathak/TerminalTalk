@@ -13,17 +13,15 @@ TerminalAI is a simple chatbot that leverages OpenAI's GPT-3.5 model to interact
 
 ## Setup Instructions
 
-### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```sh
 git clone https://github.com/ShishirPathak/TerminalTalk.git
 cd TerminalAI
 
-
-### 2. Install Dependencies
+###  Install Dependencies
 npm install
 
-### 3. Configure Environment Variables
+### Configure Environment Variables
 Create a .env file in the root directory:
     Open the .env file and paste the below text and update your OpenAI API key:
     
